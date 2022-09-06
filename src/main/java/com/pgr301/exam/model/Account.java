@@ -1,8 +1,7 @@
 package com.pgr301.exam.model;
 
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
-import lombok.ToString;
+import lombok.RequiredArgsConstructormport lombok.ToString;
 
 import java.math.BigDecimal;
 
